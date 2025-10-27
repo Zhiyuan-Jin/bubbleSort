@@ -8,10 +8,14 @@ public class Errors {
     TODO: 4.2 - Fix the compiler errors until you can see the output on the console.
      */
     public static void main(String[] args) {
-      /*  for (int i = 0; i < 5; i++) {
-            System.out.print("\n#")
+        for (int i = 0; i < 5; i++) {
+            System.out.print("\n#");
             for (int j = 0; j < 3; j++) {
-                System.out.print("*")
-       */
+                System.out.print("*");
+            }
+        }
     }
 }
+
+
+
