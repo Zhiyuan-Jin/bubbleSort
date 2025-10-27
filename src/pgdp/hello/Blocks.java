@@ -7,8 +7,8 @@ public class Blocks {
     TODO: 1.1 - Uncomment the 11. line & comment out the 10. line and run the class again.
      */
     public static void main(String[] args) {
-        //boolean shouldGoIntoBlock = false;
-        boolean shouldGoIntoBlock = true;
+        boolean shouldGoIntoBlock = false;
+        // boolean shouldGoIntoBlock = true;
         if (shouldGoIntoBlock) {
             System.out.println("I'm now in the block.");
         }
